@@ -48,7 +48,7 @@ const about = {
     "I'm passionate about Full Stack Development, AI, and ML, with hands-on experience in Java, React, Node.js, and MongoDB. " +
     "I work as a Content Lead at Codeunia, where I host sessions for 100+ students and manage technical blogs. " +
     "I'm also an active ACM Club Coordinator and have competed in multiple national hackathons.",
-  resume: "https://drive.google.com/file/d/your-resume-link/view",
+  resume: "https://drive.google.com/file/d/1PW1fkFppzpZ9yPAAdMDLc_PdRT16Ejlv/view?usp=drive_link",
 };
 
 // PROJECTS SECTION
